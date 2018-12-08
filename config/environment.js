@@ -3,6 +3,7 @@
 module.exports = function(environment) {
   let ENV = {
     modulePrefix: 'markdown-component',
+    podModulePrefix: 'markdown-component/pods',
     environment,
     rootURL: '/',
     locationType: 'auto',
